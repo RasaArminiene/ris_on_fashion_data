@@ -1,2 +1,2 @@
-# ris_on_fashion_data
+# RIS on Fashion Data
 Final project of BIG Data course: Reverse Image Search on Fashion Data
